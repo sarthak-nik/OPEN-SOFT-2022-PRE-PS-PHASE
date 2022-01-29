@@ -1,4 +1,4 @@
-# Assigment 1:
+# Assignment 1:
 
 ### Work with the Github:
 
@@ -38,7 +38,7 @@
 * Sourav Sukumaran
 * Adelly Sai Kiran
 
-# Assigment 2:
+# Assignment 2:
 
 ## Task 1:
 - This task is a image processing PS, where you have to impliment ideas of CV and IP to solve the problem, please go to [the issue](https://github.com/I-am-sayantan/OPEN-SOFT-2022-PRE-PS-PHASE/issues/28) and make your PR on that issue, first comment on it,that you wants to work and, you will be assigned.
