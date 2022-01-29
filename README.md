@@ -41,8 +41,9 @@
 # Assigment 2:
 
 ## Task 1:
-- This task is a image processing PS, where you have to impliment ideas of CV and IP to solve the problem, please go to the issue and make your PR on that issue, first comment on it,that you wants to work and, you will be assigned.
-- For this task no resources will be provided please use the internet for this task as well as the upcoming tasks.
+- This task is a image processing PS, where you have to impliment ideas of CV and IP to solve the problem, please go to [the issue](https://github.com/I-am-sayantan/OPEN-SOFT-2022-PRE-PS-PHASE/issues/28) and make your PR on that issue, first comment on it,that you wants to work and, you will be assigned.
+- For this task no resources will be provided,please use the internet for this task as well as the upcoming tasks.
+- Library: [OPENCV](https://opencv.org/)
 
 ### Completed by:
 
