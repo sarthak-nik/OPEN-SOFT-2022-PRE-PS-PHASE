@@ -14,7 +14,7 @@
 * [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * [What is GitHub And How To Use It?](https://www.simplilearn.com/tutorials/git-tutorial/what-is-github)
 
-### Completed:
+### Completed by:
 
 * Vineet Anand
 * Dhruv Arya
@@ -38,5 +38,11 @@
 * Sourav Sukumaran
 * Adelly Sai Kiran
 
+# Assigment 2:
 
+## Task 1:
+- This task is a image processing PS, where you have to impliment ideas of CV and IP to solve the problem, please go to the issue and make your PR on that issue, first comment on it,that you wants to work and, you will be assigned.
+- For this task no resources will be provided please use the internet for this task as well as the upcoming tasks.
+
+### Completed by:
 
