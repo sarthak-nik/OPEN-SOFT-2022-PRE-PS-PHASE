@@ -42,8 +42,16 @@
 
 ## Task 1:
 - This task is a image processing PS, where you have to impliment ideas of CV and IP to solve the problem, please go to [the issue](https://github.com/I-am-sayantan/OPEN-SOFT-2022-PRE-PS-PHASE/issues/28) and make your PR on that issue, first comment on it,that you wants to work and, you will be assigned.
-- For this task no resources will be provided,please use the internet for this task as well as the upcoming tasks.
 - Library: [OPENCV](https://opencv.org/)
+### Resourses:
+
+#### For this PS:
+- [OpenCV Sudoku Solver Step by Step (2020)](https://www.youtube.com/watch?v=qOXDoYUgNlU)
+- [OpenCV Sudoku Solver and OCR](https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/)
+- [Sudoku Solver using OpenCV & Python](https://data-flair.training/blogs/opencv-sudoku-solver/)
+#### Other areas of OPENCV:
+- [10 OpenCV Projects To Check Out In 2020](https://analyticsindiamag.com/10-opencv-projects-to-check-out-in-2020/)
+- [ rchavezj /OpenCV_Projects](https://github.com/rchavezj/OpenCV_Projects)
 
 ### Completed by:
 
